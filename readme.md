@@ -1,4 +1,4 @@
-# Trendyol Checkout Case
+# Shopping Cart Application
 
 *Note that: Application has been developed regarding information given below. For the application details, please check the [help.md](help.md) file.*
 
