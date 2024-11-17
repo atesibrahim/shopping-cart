@@ -1,0 +1,2 @@
+{"command":"addItem", "payload":{"itemId":4, "categoryId":3003, "sellerId":2001, "price":75.0, "quantity":1}}
+{"command": "resetCart"}

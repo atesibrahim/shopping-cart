@@ -1,0 +1,87 @@
+{"result":true, "message":"Item added successfully"}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total item to the cart."}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total item to the cart."}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Cart has been reset"}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total amount to the cart."}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total amount to the cart."}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":false, "message":"Failed to remove item due to:Item not found in the cart. ItemId: 70 "}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":{"items":[{"itemId":1,"categoryId":1002,"sellerId":2001,"price":500.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":3003,"sellerId":2002,"price":100.0,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":7889,"sellerId":2003,"price":150.0,"quantity":2,"vasItems":[]},{"itemId":4,"categoryId":7889,"sellerId":2004,"price":75.0,"quantity":5,"vasItems":[]},{"itemId":5,"categoryId":1001,"sellerId":2001,"price":300.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":6,"categoryId":3004,"sellerId":2001,"price":400.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":7,"categoryId":3003,"sellerId":2005,"price":250.0,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":1002,"sellerId":2006,"price":6000.0,"quantity":1,"vasItems":[]},{"itemId":9,"categoryId":3004,"sellerId":2007,"price":12000.0,"quantity":1,"vasItems":[]}],"totalDiscount":1063.75,"totalAmount":20211.25,"appliedPromotionId":5676}}
+{"result":true, "message":"Cart has been reset"}
+{"result":true, "message":{"items":[],"totalDiscount":0.0,"totalAmount":0.0,"appliedPromotionId":0}}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":false, "message":"Failed to remove item due to:Item not found in the cart. ItemId: 70 "}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":{"items":[{"itemId":1,"categoryId":1002,"sellerId":2001,"price":500.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":3003,"sellerId":2002,"price":100.0,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":7889,"sellerId":2003,"price":150.0,"quantity":2,"vasItems":[]},{"itemId":4,"categoryId":7889,"sellerId":2004,"price":75.0,"quantity":5,"vasItems":[]},{"itemId":5,"categoryId":1001,"sellerId":2001,"price":300.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":6,"categoryId":3004,"sellerId":2001,"price":400.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":7,"categoryId":3003,"sellerId":2005,"price":250.0,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":1002,"sellerId":2006,"price":6000.0,"quantity":1,"vasItems":[]},{"itemId":9,"categoryId":3004,"sellerId":2007,"price":12000.0,"quantity":1,"vasItems":[]}],"totalDiscount":1063.75,"totalAmount":20211.25,"appliedPromotionId":5676}}
+{"result":true, "message":"Cart has been reset"}
+{"result":true, "message":{"items":[],"totalDiscount":0.0,"totalAmount":0.0,"appliedPromotionId":0}}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":false, "message":"Failed to remove item due to:Item not found in the cart. ItemId: 70 "}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":{"items":[{"itemId":1,"categoryId":1002,"sellerId":2001,"price":500.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":3003,"sellerId":2002,"price":100.0,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":7889,"sellerId":2003,"price":150.0,"quantity":2,"vasItems":[]},{"itemId":4,"categoryId":7889,"sellerId":2004,"price":75.0,"quantity":5,"vasItems":[]},{"itemId":5,"categoryId":1001,"sellerId":2001,"price":300.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":6,"categoryId":3004,"sellerId":2001,"price":400.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":7,"categoryId":3003,"sellerId":2005,"price":250.0,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":1002,"sellerId":2006,"price":6000.0,"quantity":1,"vasItems":[]},{"itemId":9,"categoryId":3004,"sellerId":2007,"price":12000.0,"quantity":1,"vasItems":[]}],"totalDiscount":1063.75,"totalAmount":20211.25,"appliedPromotionId":5676}}
+{"result":true, "message":"Cart has been reset"}
+{"result":true, "message":{"items":[],"totalDiscount":0.0,"totalAmount":0.0,"appliedPromotionId":0}}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":false, "message":"Failed to remove item due to:Item not found in the cart. ItemId: 70 "}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":{"items":[{"itemId":1,"categoryId":1002,"sellerId":2001,"price":500.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":3003,"sellerId":2002,"price":100.0,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":7889,"sellerId":2003,"price":150.0,"quantity":2,"vasItems":[]},{"itemId":4,"categoryId":7889,"sellerId":2004,"price":75.0,"quantity":5,"vasItems":[]},{"itemId":5,"categoryId":1001,"sellerId":2001,"price":300.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":6,"categoryId":3004,"sellerId":2001,"price":400.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":7,"categoryId":3003,"sellerId":2005,"price":250.0,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":1002,"sellerId":2006,"price":6000.0,"quantity":1,"vasItems":[]},{"itemId":9,"categoryId":3004,"sellerId":2007,"price":12000.0,"quantity":1,"vasItems":[]}],"totalDiscount":1063.75,"totalAmount":20211.25,"appliedPromotionId":5676}}
+{"result":true, "message":"Cart has been reset"}
+{"result":true, "message":{"items":[],"totalDiscount":0.0,"totalAmount":0.0,"appliedPromotionId":0}}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":true, "message":"VAS item added successfully"}
+{"result":false, "message":"Failed to remove item due to:Item not found in the cart. ItemId: 70 "}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":{"items":[{"itemId":1,"categoryId":1002,"sellerId":2001,"price":500.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":3003,"sellerId":2002,"price":100.0,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":7889,"sellerId":2003,"price":150.0,"quantity":2,"vasItems":[]},{"itemId":4,"categoryId":7889,"sellerId":2004,"price":75.0,"quantity":5,"vasItems":[]},{"itemId":5,"categoryId":1001,"sellerId":2001,"price":300.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":6,"categoryId":3004,"sellerId":2001,"price":400.0,"quantity":1,"vasItems":[{"itemId":101,"categoryId":3242,"sellerId":5003,"price":50.0,"quantity":1}]},{"itemId":7,"categoryId":3003,"sellerId":2005,"price":250.0,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":1002,"sellerId":2006,"price":6000.0,"quantity":1,"vasItems":[]},{"itemId":9,"categoryId":3004,"sellerId":2007,"price":12000.0,"quantity":1,"vasItems":[]}],"totalDiscount":1063.75,"totalAmount":20211.25,"appliedPromotionId":5676}}
+{"result":true, "message":"Cart has been reset"}
+{"result":true, "message":{"items":[],"totalDiscount":0.0,"totalAmount":0.0,"appliedPromotionId":0}}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total item to the cart."}
+{"result":false, "message":"Failed to add item to cart due to: Cannot add more than max total amount to the cart."}
+{"result":true, "message":"Item added successfully"}
+{"result":true, "message":"Cart has been reset"}

@@ -1,0 +1,15 @@
+{"command":"addItem", "payload":{"itemId":1, "categoryId":1002, "sellerId":2001, "price":500.0, "quantity":2}}
+{"command":"addItem", "payload":{"itemId":4, "categoryId":7889, "sellerId":2004, "price":75.0, "quantity":5}}
+{"command":"addItem", "payload":{"itemId":5, "categoryId":1001, "sellerId":2001, "price":300.0, "quantity":1}}
+{"command":"addItem", "payload":{"itemId":6, "categoryId":3004, "sellerId":2001, "price":400.0, "quantity":1}}
+{"command":"addItem", "payload":{"itemId":7, "categoryId":3003, "sellerId":2005, "price":250.0, "quantity":2}}
+{"command":"addItem", "payload":{"itemId":8, "categoryId":1002, "sellerId":2006, "price":6000.0, "quantity":1}}
+{"command":"addItem", "payload":{"itemId":9, "categoryId":3004, "sellerId":2007, "price":12000.0, "quantity":1}}
+{"command":"addVasItemToItem", "payload": {"itemId":5, "vasItemId":101, "vasCategoryId":3242, "vasSellerId":5003, "price":50.0, "quantity":1}}
+{"command":"addVasItemToItem", "payload": {"itemId":6, "vasItemId":101, "vasCategoryId":3242, "vasSellerId":5003, "price":50.0, "quantity":1}}
+{"command":"removeItem", "payload":{"itemId":70}}
+{"command":"addItem", "payload":{"itemId":2, "categoryId":3003, "sellerId":2002, "price":100.0, "quantity":3}}
+{"command":"addItem", "payload":{"itemId":3, "categoryId":7889, "sellerId":2003, "price":150.0, "quantity":2}}
+{"command":"displayCart"}
+{"command":"resetCart"}
+{"command":"displayCart"}
